@@ -21,6 +21,11 @@ This sequence ensures that data is securely and reliably transferred from your L
     Specify the ARN of the S3 bucket and its Objects for resource –based policy.
 
 
+Create a public github repository that has a README.md file, containing the above answers.
+Submission is the url to your public github repository.
+
+https://github.com/kamsani1973/Assignment2.12.git
+
 
 
 
