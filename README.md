@@ -1,5 +1,5 @@
 # Assignment2.12
-What is the purpose of the execution role on the Lambda function?
+1. What is the purpose of the execution role on the Lambda function?
         - Allow logs : Create log Group
         - Allow logs : Create log Stream
         - Allow logs : Put log Events
